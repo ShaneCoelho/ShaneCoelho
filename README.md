@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanecoelho&label=Profile%20views&color=0e75b6&style=flat" alt="shanecoelho" /> </p>
 
-- 🔭 I’m currently working on **Work Saga**
+- 🔭 I’m currently working on **Crew Connect**
 
-- 🌱 I’m currently learning **Flutter, NodeJs**
+- 🌱 I’m currently learning **React Native, NodeJs**
 
 - 👯 I’m looking to collaborate on **ReactJs and NodeJs**
 
-- 💬 Ask me about **Java, ReactJs, PHP**
+- 💬 Ask me about **ReactJs, React Native, NodeJs**
 
 - 📫 How to reach me **shanecoelho1@gmail.com**
 
